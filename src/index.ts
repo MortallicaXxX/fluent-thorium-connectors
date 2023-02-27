@@ -12,6 +12,7 @@ export * from './components/fluent-flipper';
 export * from './components/fluent-menu';
 export * from './components/fluent-data-grid';
 export * from './components/fluent-option';
+export * from './components/fluent-tabs';
 export * from './components/fluent-text-area';
 export * from './components/fluent-text-field';
 export * from './components/fluent-tree-view';
