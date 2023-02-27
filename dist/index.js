@@ -28,6 +28,7 @@ __exportStar(require("./components/fluent-flipper"), exports);
 __exportStar(require("./components/fluent-menu"), exports);
 __exportStar(require("./components/fluent-data-grid"), exports);
 __exportStar(require("./components/fluent-option"), exports);
+__exportStar(require("./components/fluent-tabs"), exports);
 __exportStar(require("./components/fluent-text-area"), exports);
 __exportStar(require("./components/fluent-text-field"), exports);
 __exportStar(require("./components/fluent-tree-view"), exports);
