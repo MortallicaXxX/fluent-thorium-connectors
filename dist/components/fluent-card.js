@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.FluentCard = void 0;
 const thoriumjs_1 = require("thoriumjs");
 class FluentCard extends thoriumjs_1.UserInterface.ElementUI {
     constructor(options) {

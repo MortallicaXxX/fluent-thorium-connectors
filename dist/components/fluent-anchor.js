@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.FluentAnchor = void 0;
 const thoriumjs_1 = require("thoriumjs");
 /**
  * ### fluent-anchor

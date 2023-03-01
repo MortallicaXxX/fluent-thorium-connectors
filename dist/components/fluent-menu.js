@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.FluentMenuItem = exports.FluentMenu = void 0;
 const thoriumjs_1 = require("thoriumjs");
 class FluentMenu extends thoriumjs_1.UserInterface.ElementUI {
     constructor(options) {

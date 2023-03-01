@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.FluentDialog = void 0;
 const thoriumjs_1 = require("thoriumjs");
 class FluentDialog extends thoriumjs_1.UserInterface.ElementUI {
     constructor(options) {

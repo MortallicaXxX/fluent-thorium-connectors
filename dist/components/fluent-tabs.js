@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.FluentTabPanel = exports.FluentTab = exports.FluentTabs = void 0;
 const thoriumjs_1 = require("thoriumjs");
 class FluentTabs extends thoriumjs_1.UserInterface.ElementUI {
     constructor(options) {

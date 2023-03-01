@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.FluentDivider = void 0;
 const thoriumjs_1 = require("thoriumjs");
 /**
  * As the name implies, it divides one section of content from another with a line. A web component implementation of a horizontal rule.

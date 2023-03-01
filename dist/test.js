@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.DetailsListHeader = void 0;
 const thoriumjs_1 = require("thoriumjs");
 const _1 = require("./");
 class DetailsListHeader extends thoriumjs_1.Components.Nav {

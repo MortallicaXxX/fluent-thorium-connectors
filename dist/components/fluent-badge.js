@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.FluentBadge = void 0;
 const thoriumjs_1 = require("thoriumjs");
 class FluentBadge extends thoriumjs_1.UserInterface.ElementUI {
     constructor(options) {
